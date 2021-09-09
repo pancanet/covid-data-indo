@@ -13,8 +13,13 @@ Data jumlah harian dan total covid 19 di indonesia beserta data vaksinasi berdas
   - Menjalankan program covid.py (untuk data update harian kasus covid 19) atau vaksin.py (untuk data update harian vaksinasi covid 19) dari terminal ataupun cmd
   - syntax yang digunakan python covid.py atau python3 covid.py
 
-# Edit data
+# Edit data 
 untuk mengubah data bisa diedit langsung pada program covid.py ataupun vaksin.py
+
+# Mengubah .py menjadi .exe
+- Untuk mengubah ekstensi program dapat menjalankan syntax 
+- pyinstaller --onefile -w nama_program_nya.py
+- Setelah selesai file exe dapat dilihat pada folder dist
 
 # Data API dari pemerintah
 - Update kasus covid
