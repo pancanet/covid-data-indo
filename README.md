@@ -28,6 +28,8 @@ untuk mengubah data bisa diedit langsung pada program covid.py ataupun vaksin.py
   - https://data.covid19.go.id/public/api/pemeriksaan-vaksinasi.json
 - Data Lab covid
   - https://data.covid19.go.id/public/api/lab.json
+- Data RS covid
+  - https://data.covid19.go.id/public/api/rs.json
 - Data kasus covid per provinsi
   - https://data.covid19.go.id/public/api/prov_list.json
 - Data penyakit pengikut (data tidak tahu untuk apa tapi)
